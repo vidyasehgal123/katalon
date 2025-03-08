@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>end to end test case</description>
+   <name>Testcase030</name>
+   <tag>sanity</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>321e3122-cbae-4ee8-a7a4-91e49d6a4d97</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>test the profile</description>
+   <name>TestCase026</name>
+   <tag>sanity</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>be21976e-8d69-4740-af6c-15ae28ab7b64</testCaseGuid>
+</TestCaseEntity>

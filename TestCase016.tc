@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test Case to login and book an appointment</description>
+   <name>TestCase016</name>
+   <tag>functional</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e29f9aa1-8b5f-41c2-9ee1-3fd2581aa41a</testCaseGuid>
+</TestCaseEntity>

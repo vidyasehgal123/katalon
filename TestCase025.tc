@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>End to end flow</description>
+   <name>TestCase025</name>
+   <tag>regression</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d68fa118-a900-45e8-99e8-cef0d702cee3</testCaseGuid>
+</TestCaseEntity>

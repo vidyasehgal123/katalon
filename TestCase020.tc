@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>test case to book appoinment</description>
+   <name>TestCase020</name>
+   <tag>smoke</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e905b816-3044-4c52-8333-84f1e618afc0</testCaseGuid>
+</TestCaseEntity>
